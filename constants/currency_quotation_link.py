@@ -1,0 +1,1 @@
+LINK_CURRENCY_QUOTATION = 'https://economia.awesomeapi.com.br/last/'
