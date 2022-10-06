@@ -2,7 +2,7 @@ from runner import Runner
 
 
 def main():
-    Runner.runner()
+    Runner.run()
 
 
 if __name__ == '__main__':

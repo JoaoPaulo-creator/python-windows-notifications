@@ -7,7 +7,7 @@ from winotify import audio
 class Runner:
 
     @staticmethod
-    def runner():
+    def run():
         quotation = get_currency_quotation(const.LINK_CURRENCY_QUOTATION)
         windows_notification = set_notification(app_id='Quotation Query',
                                                 title='USD Current value',
